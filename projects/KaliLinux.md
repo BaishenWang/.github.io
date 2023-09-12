@@ -1,3 +1,17 @@
+---
+layout: project
+type: project
+image: 
+title: "Kali Linux"
+date: 9/12/2023
+published: true
+labels:
+  - Unix
+  - Apache
+  - MYSQL
+summary: "A dynamic website work for security in EE 296."
+---
+
 In this Kali Linux, I experimented how to set up the static website, dynamic website
 and ssh. I know about the web application architecture. Apache is the web server
 that processes requests and serves web assets and content with HTTP. MYSQL is
