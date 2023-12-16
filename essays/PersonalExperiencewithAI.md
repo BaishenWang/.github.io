@@ -11,7 +11,7 @@ labels:
   - AI
 ---
 
-
+<img height = "300px" class="rounded float-start pe-4" src="../img/AI.jpg">
 # My use of Artificial Intelligence in ICS 314
 
 ## I. Introduction
