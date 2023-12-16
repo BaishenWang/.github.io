@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/kalilinux/KailiLinux.jpg
+image: img/kalilinux/KailiLinux.jpg
 title: "Kali Linux"
 date: 9/12/2023
 published: true
