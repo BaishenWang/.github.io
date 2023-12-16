@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on smart questions"
+title: "Reflect on SoftwareEngineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
