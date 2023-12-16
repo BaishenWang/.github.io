@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: /img/firmware.png
 title: "Smart Campus Energy Lab: Team Firmware"
 date: 2022
 published: true
