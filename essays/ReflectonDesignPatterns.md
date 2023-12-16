@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on smart questions"
+title: "Reflect on Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2023-9-7
+date: 2023-11-20
 published: true
 labels:
   - Software Engineering
