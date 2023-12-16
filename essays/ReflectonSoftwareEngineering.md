@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img height ="300px" class="rounded float-start pe-4" src="../img/designpattern.png">
+<img height ="300px" class="rounded float-start pe-4" src="../img/school.jpg">
 
 In the course of my software engineering studies, I've explored fundamental concepts that extend beyond the realm of web application development, delving into topics with substantial significance in the broader field of software engineering. Two pivotal facets, Agile Project Management and Design Patterns, stand out for their universal applicability and implications beyond web applications.
 
