@@ -12,6 +12,8 @@ labels:
 summary: "A dynamic website work for security in EE 296."
 ---
 
+<img class="img-fluid" src="../img/kalilinux/KailiLinux.jpg">
+
 In this Kali Linux, I experimented how to set up the static website, dynamic website
 and ssh. I know about the web application architecture. Apache is the web server
 that processes requests and serves web assets and content with HTTP. MYSQL is
