@@ -4,7 +4,7 @@ type: essay
 title: "Reflect on UI Frame"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-5
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
