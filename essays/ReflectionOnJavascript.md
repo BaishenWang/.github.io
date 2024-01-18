@@ -11,6 +11,7 @@ labels:
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/">
+
 ## The JavaScript jorney
 I have enjoyed working with JavaScript much more than my previous experience with C. C employs a distinct approach to object-oriented programming, utilizing structs and functions, and lacks built-in support for classes and prototypes, a feature readily available in JavaScript. The latter's object-oriented syntax, incorporating prototypes and constructors, proves to be more advantageous for constructing intricate, interactive web applications that involve managing diverse objects and their behaviors. On the other hand, C's structured programming syntax aligns better with traditional procedural programming and low-level system development. When dealing with object-oriented programs, JavaScript offers more seamless support.
 
