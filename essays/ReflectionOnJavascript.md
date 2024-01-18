@@ -12,7 +12,7 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/">
 
-## The JavaScript jorney
+## The JavaScript Journey
 I have enjoyed working with JavaScript much more than my previous experience with C. C employs a distinct approach to object-oriented programming, utilizing structs and functions, and lacks built-in support for classes and prototypes, a feature readily available in JavaScript. The latter's object-oriented syntax, incorporating prototypes and constructors, proves to be more advantageous for constructing intricate, interactive web applications that involve managing diverse objects and their behaviors. On the other hand, C's structured programming syntax aligns better with traditional procedural programming and low-level system development. When dealing with object-oriented programs, JavaScript offers more seamless support.
 
 Another noteworthy distinction in JavaScript is its ability to declare variables without specifying data types. In contrast, C is a statically typed language, requiring explicit data type declarations for variables such as int, char, unsigned int, double, etc. JavaScript allows for simpler variable declarations using var, let, or const, presenting a more lenient stance on data types. While this flexibility may pose challenges as coding projects become more complex, particularly as we progress through the course, there are likely disadvantages to such loose coding rules. JavaScript's dynamic typing proves advantageous when coding demands flexibility, while C's static typing shines in scenarios where robust type safety is crucial, such as in system-level programming or safety-critical applications, ensuring explicit definition of variable types and preventing potential issues.
