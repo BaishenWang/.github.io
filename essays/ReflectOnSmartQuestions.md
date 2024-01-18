@@ -4,7 +4,7 @@ type: essay
 title: "Reflect on smart questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-9-7
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
