@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Meteor
   - Web Development
-summary: "A web application project for posting and selling specific kinds of items or services at Manoa."
+summary: "A web application project for posting and selling specific kinds of items or services at Manoa." 
 ---
 <div class="text-center p-4">
   <img width="300px" src="../img/Landing-Page.png">
