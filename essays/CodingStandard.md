@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on coding standrads"
+title: "Coding standrads"
 # All dates must be YYYY-MM-DD format!
-date: 2023-9-21
-published: false
+date: 2024-2-5
+published: true
 labels:
   - Software Engineering
   - Learning
