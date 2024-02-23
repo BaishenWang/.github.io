@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-# <img width="50%" class="rounded float-start pe-4" src="../img/reactframe.png">
+# <img height = "300px" class="rounded float-start pe-4" src="../img/reactframe.png">
 
 
 A UI frame, often referred to as a container or frame container, is a fundamental structural element in user interface design. It serves as the framework that holds and organizes various user interface components such as buttons, forms, images, and text, shaping the layout and visual structure of digital interfaces. These frames are the architectural backbone of user experiences, providing the necessary structure and hierarchy for users to navigate and interact with an application seamlessly. UI frames play a crucial role in maintaining consistency, enabling responsiveness across different devices, and ensuring a user-friendly and organized presentation of content and functionality. They are the building blocks that designers and developers use to craft visually appealing, accessible, and efficient user interfaces, ultimately enhancing the overall user experience.
