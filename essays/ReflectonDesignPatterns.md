@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Design Patterns"
+title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-20
-published: false
+date: 2024-4-20
+published: true
 labels:
   - Software Engineering
   - Learning
