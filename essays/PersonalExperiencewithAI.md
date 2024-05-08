@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Personal Experience with AI"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-21
-published: false
+date: 2024-5-1
+published: true
 labels:
   - Software Engineering
   - Learning
