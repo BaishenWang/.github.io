@@ -4,7 +4,7 @@ type: essay
 title: "Personal Experience with AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-5-1
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
