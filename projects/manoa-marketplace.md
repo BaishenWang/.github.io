@@ -4,7 +4,7 @@ type: project
 image: img/uhm-logo.png
 title: "Manoa MarketPlace"
 date: 2023
-published: true
+published: false
 labels:
   - Javascript
   - Meteor
