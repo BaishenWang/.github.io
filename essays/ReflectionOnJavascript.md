@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "My experience on JavaScript"
+title: "My experience on TypeScript"
 # All dates must be YYYY-MM-DD format!
-date: 2024-1-17
+date: 2024-9-3
 published: true
 labels:
   - Software Engineering
