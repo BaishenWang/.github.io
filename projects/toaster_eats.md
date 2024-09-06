@@ -4,7 +4,7 @@ type: project
 image: img/toaster_square.png
 title: "Toaster Eats"
 date: 2024
-published: true
+published: false
 labels:
   - Final Project
   - Web Design
