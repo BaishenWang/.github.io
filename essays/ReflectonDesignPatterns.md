@@ -4,7 +4,7 @@ type: essay
 title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-4-20
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
