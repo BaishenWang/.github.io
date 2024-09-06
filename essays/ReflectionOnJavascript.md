@@ -4,7 +4,7 @@ type: essay
 title: "My experience on TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-9-3
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
