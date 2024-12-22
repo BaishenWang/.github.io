@@ -4,7 +4,7 @@ type: essay
 title: "Thinking in Smart questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-1-25
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning

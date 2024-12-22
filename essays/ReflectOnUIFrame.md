@@ -4,7 +4,7 @@ type: essay
 title: "UI Framework"
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-20
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
