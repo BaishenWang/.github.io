@@ -1,21 +1,21 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on SoftwareEngineering"
+title: "Creation Through Strength"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-13
+date: 2024-12-18
 published: true
 labels:
-  - Software Engineering
-  - Learning
+
 ---
 
-<img height ="300px" class="rounded float-start pe-4" src="../img/school.jpg">
+### Adapt to Overcome
+Software engineering is a new domain of learning for me. Being a Management Information Systems major exposed me to a broad range of experiences, including a brief amount of coding. This is my first time hearing about athletic software engineering, and I think the values are ideal. Being able to adapt to situations and generate creative solutions for impromptu problems is fun and engaging. One of the most important hurdles to overcome is the interview process, which can be stressful. Getting this stress out of the way and even creating strategies for coding will add to your skills as a software engineer.
 
-In the course of my software engineering studies, I've explored fundamental concepts that extend beyond the realm of web application development, delving into topics with substantial significance in the broader field of software engineering. Two pivotal facets, Agile Project Management and Design Patterns, stand out for their universal applicability and implications beyond web applications.
+<img width="180px" class="rounded pe-4" src="../img/javascript_logo.png">
 
-Agile Project Management, a dynamic methodology emphasizing adaptability and collaboration, introduces the Issue Driven Project Management (IDPM) approach. IDPM, breaking projects into manageable issues, fosters transparency and incremental progress. Its relevance extends beyond web applications, finding applicability in diverse projects like artificial intelligence and hardware integration. In an AI project, IDPM can systematically address components like data collection, algorithm development, and testing, ensuring adaptability to evolving requirements.
+Learning more about JavaScript development, UI design, design patterns, databases, and application design is interesting. I have some experience with JavaScript development from prior semesters in MIS, including SQL when querying databases. I have yet to touch upon application design and design patterns, but I know that this class will give me a head start on tackling these subjects. I trust that Professor Johnson will guide me and the class to the best possible outcomes and inspire all of us to achieve greatness through “exertion, commitment, success, and failure.”
 
-Design Patterns, offering reusable solutions for common software design problems, enhance code readability and scalability. The Observer Pattern, for instance, extends beyond web development and finds application in an IoT ecosystem. In this scenario, sensors subscribing to a central hub enable a decentralized, scalable system crucial for IoT architectures.
-
-In summary, software engineering goes beyond web application development, with concepts like Agile Project Management (IDPM) and Design Patterns transcending technological domains. These principles offer adaptable methodologies and reusable solutions applicable in diverse endeavors, from AI and IoT to system integration. Mastering these foundational principles equips software engineers with a versatile toolkit for navigating the complexities of projects in today's dynamic technological landscape.
+<img width="180px" class="rounded pe-4" src="../img/hands_on.jpeg">
+### Desire to Improve
+I hope to develop the skills necessary to handle the challenges presented in class and in the workforce. The best way to learn involves hands-on experience with similar projects and problems that will be relevant to your career. Showcasing the challenges you faced and how you overcame them is a valuable skill to show. Being uncomfortable is the optimal zone to improve upon skills that you already possess. This is the center point of increasing your value as a hire. I hope that ICS 314 will become an optimal learning environment to accomplish all of these goals.
