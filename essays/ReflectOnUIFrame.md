@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "UI Framework"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-20
+date: 2024-10-4
 published: true
 labels:
   - Software Engineering

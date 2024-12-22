@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Coding standrads"
 # All dates must be YYYY-MM-DD format!
-date: 2024-2-5
-published: false
+date: 2024-9-20
+published: true
 labels:
   - Software Engineering
   - Learning

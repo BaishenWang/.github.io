@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2024-4-20
+date: 2024-12-1
 published: true
 labels:
   - Software Engineering
