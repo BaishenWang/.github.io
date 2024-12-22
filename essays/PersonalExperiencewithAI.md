@@ -14,32 +14,55 @@ labels:
 <img height = "300px" class="rounded float-start pe-4" src="../img/AI.jpg">
 # My use of Artificial Intelligence in ICS 314
 
-## I. Introduction
-AI-driven tools can enhance various aspects of programming, from code generation to debugging and optimization. ChatGPT, for instance, can assist developers by providing code snippets, suggesting solutions to coding problems, and offering insights into best practices. Its natural language capabilities facilitate effective communication between developers and the AI, streamlining the coding process. Additionally, AI in programming enables advancements such as automated code review, which helps enforce coding standards and enhances code quality. 
-## II. Personal Experience with AI
-### WODs
-Relying on ChatGPT during Workouts of the Day (WODs) proved instrumental when facing substantial challenges. The AI's assistance in understanding errors was valuable, yet a deliberate decision was made to avoid relying entirely on AI for every task. This approach aimed to maintain a robust understanding of programming concepts, striking a balance between leveraging AI for guidance and independently solving problems. By combining AI support with individual problem-solving efforts, an optimal balance was achieved, fostering a more comprehensive comprehension of the material.
-### Essays
-The role of AI, especially ChatGPT, proved invaluable in the enhancement of technical essays. Its efficiency in aiding with content structuring, ensuring coherence, and seamlessly incorporating transitions allowed me to concentrate on the technical intricacies while entrusting the fine-tuning to the AI. Nevertheless, I recognized the occasional necessity of reviewing AI-generated content to ensure contextual accuracy and relevance. This collaborative approach, leveraging AI for its strengths while maintaining a human review for contextual nuances, resulted in a synergistic refinement process for technical writing.
-### Final Project
-In the culmination of the final project, ChatGPT assumed a minor role, primarily serving as a tool for brainstorming ideas and searching for fitting project names. Its contributions were more pronounced during the initial conceptualization phase rather than in the subsequent project implementation. This limited involvement of AI underscored the significance of human creativity and critical thinking in the project development process. While AI played a supportive role in idea generation and naming, the core aspects of project realization relied heavily on the unique capabilities of human ingenuity and problem-solving.
-### Learning Concepts/Tutorials
-In my learning sessions, I deliberately limited the use of ChatGPT to enhance information retention. I observed that an excessive dependence on AI hindered my personal understanding, particularly when grappling with new concepts. Through this experience, I found that actively engaging with course material, rather than relying solely on AI assistance, fostered a deeper and more comprehensive learning process. This strategic balance allowed me to absorb and internalize information more effectively, emphasizing the importance of hands-on learning and individual cognitive effort in the educational journey..
-### Class/Discord Questions
-Before participating in class or Discord discussions, I often turned to ChatGPT for swift and knowledgeable responses. However, I came to the realization that human interactions, despite being slower, frequently offered more nuanced and interactive solutions. The amalgamation of AI-generated responses and peer interactions significantly enriched the overall learning experience. This hybrid approach, blending the efficiency of AI with the depth of human engagement, proved to be a more holistic and rewarding method in the context of collaborative learning environments.
-### Coding Examples/Quality Assurance
-ChatGPT demonstrated proficiency in offering explanations and aiding in code-related tasks with efficiency. However, it became evident that its solutions were not always entirely accurate, necessitating validation and interpretation. While the use of AI in code-related tasks accelerated problem-solving, it concurrently demanded a level of critical evaluation to ensure reliable outcomes. Striking a balance between leveraging the AI's capabilities for efficiency and incorporating human judgment for accuracy became crucial in optimizing the effectiveness of code-related interactions.
-### Other Uses
-ChatGPT proved valuable in tasks involving brainstorming, creativity, team/project names, and styling. However, a crucial realization emerged regarding the significance of human input in decision-making, particularly in creative domains. While the AI's suggestions were instrumental as starting points, the iterative refinement and injection of human creativity were essential to elevate the final outcomes. This recognition underlined the collaborative nature of AI-human partnerships, where the AI serves as a catalyst for ideas, and human judgment plays a pivotal role in shaping and perfecting creative endeavors.
-## III. Impact on Learning and Understanding
-AI tools like ChatGPT provided confidence and aided problem-solving. They served as helpful tools rather than learning hindrances, allowing quick access to information and suggestions that might have taken hours of internet searches. While AI offered efficiency, the need for independent learning and critical thinking was evident in certain scenarios.
-## IV. Practical Applications
-While I haven’t extensively used ChatGPT outside ICS 314, I believe it holds promise as a learning assistance tool in real-world software engineering scenarios. Its potential in aiding brainstorming sessions, code analysis, and creative tasks could be valuable in professional settings.
-## V. Challenges and Opportunities
-AI, while beneficial, sometimes delayed solutions that could have been quickly resolved through more traditional means like a Google search. Its limitations in accuracy and context understanding were evident in specific scenarios. The challenge lies in balancing AI’s assistance with human input to optimize learning and problem-solving.
-## VI. Comparative Analysis
-Balancing traditional methods with AI offers comprehensive solutions. AI aids learning but must be balanced with human input to ensure better engagement and knowledge retention. The synergy between AI-driven assistance and traditional learning methodologies enhances the learning experience by amalgamating efficiency and depth.
-## VII. Future Considerations
-The outlook for the future of AI in software engineering education appears promising. Ongoing advancements should focus on enhancing AI tools to better complement traditional teaching methods and overcome limitations such as accuracy and contextual understanding. The integration of AI has the potential to evolve further, fostering a more interactive and personalized learning experience. As the synergy between AI and education continues to grow, there is optimism that these technologies will play an increasingly integral role in shaping the next generation of software engineers, offering innovative and tailored approaches to learning.
-## VIII. Conclusion
-AI, particularly ChatGPT, emerges as a potent learning augmentation tool in the realm of software engineering education. Finding a harmonious balance between AI and traditional teaching methods has the potential to optimize learning experiences by capitalizing on the respective strengths of each approach. This collaborative strategy not only facilitates comprehensive learning but also nurtures essential skills such as critical thinking and problem-solving. The integration of AI as a complementary educational resource signifies a promising direction for fostering a well-rounded and effective learning environment in software engineering education.
+### I. Introduction
+The introduction of AI really exploded with the release of ChatGPT in November 2022. It is hard for me to think of a world without AI chatbots being integrated into many aspects of online business and programs. The application of AI for software engineering and development seems to be especially useful. Code is a language that abides by very strict rules and does not need to seem “human” in order to function and serve its purpose. In the current world of AI, the use cases are endless for text-based solutions. Anything that can be solved by writing can be used quickly and with relative accuracy. I am aware of image generation AI services that are open to general consumers, but I have not explored very deeply into this sector. I have personally used ChatGPT for the first time this semester, and I could see myself using it in the future if I encounter some niche problems.
+
+### II. Personal Experience with AI:
+I have used AI in class this semester in the following areas:
+
+  1. Experience WODs: Completing experience WODs was a very familiar experience to me as I have done many WODs in ITM 352 with Professor Port. The availability of screencasts after failure to meet time restrictions was sufficient enough for me to finish the assignments. The use of AI did not come to mind as the supplemental class materials and recording was excellent. I did not attempt to use AI and have not tried to use it for any at-home WODs.
+
+  2. In-class Practice WODs: The expectations for the practice in-class WODs was failure and or partial completion. I did not feel pressured to pass these WODs so I did not use AI to assist me. Solutions were given after each practice eliminating the need for outside resources such as AI to explain concepts.
+
+  3. In-class WODs: I have used ChatGPT for one in-class WOD before. I do not remember the specific WOD but I know it was one relating to Underscore. I was not very familiar with Underscore and had a lot of trouble implementing the functions to modify arrays to achieve the desired output. I believe I failed the previous WOD using Underscore so I used ChatGPT to solve the problem. I did not think I would be able to finish the assignment in time so I decided to use AI.
+
+  4. Essays: I have never used AI to write any of my essays in this class. I personally think the effort required to write an essay about a predetermined topic is relatively easy. The only situation where I could see myself using AI for essays would probably only be determining an idea or plot.
+
+  5. Final project: I have not used AI to code any parts of the final project. All of the things I have contributed to the final project have been modified code from previous assignments or from documentation for react bootstrap. I am unsure if I would have used AI for the final project if I ran into a problem I could not solve.
+
+  6. Learning a concept / tutorial: I have not used AI to learn a concept or make a tutorial. The classroom modules have been sufficient enough to get through my assignments.
+
+  7. Answering a question in class or in Discord: I have never answered a question in class or in discord. I would more likely talk to a classmate over asking AI first.
+
+  8. Asking or answering a smart-question: I have not asked a smart-question that related to code. If I could not properly explain my problem I might use AI to answer the question.
+
+  9. Coding example: I have not used AI for a coding example. I found the documentation from various resources to be enough to understand functions.
+
+  10. Explaining code: I did not have coding questions in this class. If I did have coding questions I would most likely consult a peer versus consulting AI.
+
+  11. Writing code: I did not use AI to write code with the exception of the in-class WOD. I may have used AI to write code if I consistently had problems.
+
+  12. Documenting code: I have never documented my code using AI. I rarely document my code as a bad habit so I could see myself using AI in the future if I needed to document a large portion of my code.
+
+  13. Quality assurance: I usually go by a pass or fail metric when evaluating my code. I cannot see myself using AI for quality assurance.
+
+  14. Other uses in ICS 314 not listed above: I think AI will make its way into future workplaces and potentially affect the work ecosystem.
+
+
+### III. Impact on Learning and Understanding:
+The use of AI in this course has not impacted my understanding of software engineering concepts. ChatGPT is the most prevalent AI service that will definitely serve as or replace search engines in the future. AI serves as a summarizer or aggregator for concepts, but it has not seen widespread adoption into curricula. AI can help with smaller things such as troubleshooting code, fixing errors, formatting, and other text-based issues. It can increase efficiency by providing a quick retrofit solution to problems. However, overreliance on AI tools can lead to fundamental issues if the basics of problem solving are not in place. I have limited experience with AI tools, so I am very unsure of the impact on the learning and understanding of the general public and software engineering students.
+
+### IV. Practical Applications:
+Practical applications and large-scale software projects will probably not see large innovations through AI. I think of AI as a means to quickly perform and adapt to automated situations that fall within a range of normality. Ultimately, AI is trained off of human input, which means that all solutions and connections can be done by a human, albeit with less efficiency and accuracy. I think mundane sections of coding can be sped up by large margins to improve the speed of development. The large-scale impacts of AI have yet to play out, and we will see how they play out.
+
+### V. Challenges and Opportunities:
+I have not run into any challenges or limitations in my use of AI. I think the ability to prompt engines such as ChatGPT will be more important than knowing how to search with Google. It will become second nature as “Google it” and will probably continue to grow in popularity. There will be many opportunities for everyone to leverage AI to make our lives easier. It will ultimately depend on the consumer's adoption and development of such technologies. Software engineering is a very broad topic that can see benefits when coding and will most likely take some jobs away from developers. I think AI should be used as much as a person wants in a software engineering class, as the tools available to them will only continue to grow more powerful.
+
+### VI. Comparative Analysis:
+Traditional teaching methods versus AI integration is a very tricky subject. I don’t think there is a meaningful margin of difference between the two when it comes to in-class teaching. The engagement of students and their willingness to learn will usually come before any medium or method of teaching. I think if professors can use AI to give greater utility to their students, it should be used. Other than this, I don’t think AI should be a teaching resource inside the classroom. I view it as more of an external tool that is used when no other help is available.
+
+### VII. Future Considerations:
+I think ICS 314 in its current state does not need any large changes or disruptions in how it is being run. There were many clarifying questions that I asked in class, but this was mainly due to the vague language on the class site. I think the lectures, assignments, and projects were clear, and I needed minimal guidance for small issues. I did not use any external resources and found all relevant material to be present on the website.
+
+### VIII. Conclusion:
+I have very limited experience with AI and cannot strongly hold a position on this topic. I have hedged all of my statements and ideas so far and will continue to do so until I have enough experience to make a resolute claim. My lack of experience is the greatest limiting factor in my stance on not changing how the class is run. I think AI should be closely monitored and kept in mind when considering how to make the curriculum better. It will be interesting to see how AI develops, but from my current standpoint, it is not significant enough to change large portions of the course.
