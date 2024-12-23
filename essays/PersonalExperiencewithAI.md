@@ -68,7 +68,7 @@ The incorporation of AI in ICS 314 has been a double-edged sword. On one hand, i
 
 ## IV. Practical Applications
 
-Outside ICS 314, I’ve observed AI's application in real-world projects like those in hackathons (e.g., HACC). AI tools have been effective in providing coding suggestions, debugging assistance, and even in generating initial project ideas. However, their effectiveness is contingent on the complexity of the task and the user's ability to integrate AI insights effectively.
+Outside ICS 314, I’ve observed AI's application in real-world projects like those in hackathons. AI tools have been effective in providing coding suggestions, debugging assistance, and even in generating initial project ideas. However, their effectiveness is contingent on the complexity of the task and the user's ability to integrate AI insights effectively.
 
 ## V. Challenges and Opportunities
 
