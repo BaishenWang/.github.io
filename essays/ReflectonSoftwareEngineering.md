@@ -8,7 +8,12 @@ published: true
 labels:
 
 ---
-<img width="300px" class="rounded pe-4" src="../img/software-developer.jpg">
+<img height="40%" 
+     style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%" 
+     src="../img/software-developer.jpg">
 
 ### Adapt to Overcome
 Software engineering is a new domain of learning for me. Being a Management Information Systems major exposed me to a broad range of experiences, including a brief amount of coding. This is my first time hearing about athletic software engineering, and I think the values are ideal. Being able to adapt to situations and generate creative solutions for impromptu problems is fun and engaging. One of the most important hurdles to overcome is the interview process, which can be stressful. Getting this stress out of the way and even creating strategies for coding will add to your skills as a software engineer.
